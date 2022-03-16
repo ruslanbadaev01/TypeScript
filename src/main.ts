@@ -42,6 +42,7 @@ const result: StringOrNumber = arr.reduce((previousValue: string, currentValue: 
 }, 0);
 
 console.log(result);
+console.log();//не обращайте внимания на этот консоль,он нужен был для создания PR//
 
 // interface MyArr<T>{
     
